@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://kush24:kush24@cluster0.mhsaxky.mongodb.net/MESSAGEAPP",
+  "amazonsecret": "amazon_secret"
+}
