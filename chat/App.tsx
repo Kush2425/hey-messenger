@@ -39,6 +39,7 @@ const AppStack = createStackNavigator<SharedStackParams>();
 
 const App = () => {
 
+  
   // const getIsSignedIn = () => {
   //   // console.log(localStorage.getItem('messageapp-user'), 'localStorage.getItem');
   //   return (localStorage.getItem('messageapp-user')) ? true : false;
